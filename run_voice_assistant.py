@@ -20,7 +20,7 @@ WHISPER_BINARY_PATH = "/Users/yucheng.tsai/Documents/whisper.cpp/main"
 MODEL_PATH = "/Users/yucheng.tsai/Documents/whisper.cpp/models/ggml-base.en.bin"
 
 # Streamlit app
-st.title("Live Audio Transcription using Whisper.cpp")
+st.title("Live Voice Assistant")
 st.write(
     "Press the Start button to record audio and then transcribe it using Whisper.cpp."
 )
